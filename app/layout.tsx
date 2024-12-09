@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import Link from 'next/link';
+// import Link from 'next/link';
 import "../app/globals.css";
 import React from "react";
-import type { ReactNode } from 'react';
+// import type { ReactNode } from 'react';
 
 export const metadata: Metadata = {
   title: "M.Fk Shopping Website",

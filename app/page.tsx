@@ -1,10 +1,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { products } from '../app/data/product';
-import RootLayout from '../app/layout';
+// import RootLayout from '../app/layout';
 import '../app/globals.css';
-import type { AppProps } from 'next/app';
-import  Component  from 'lucide-react';
+// import type { AppProps } from 'next/app';
+// import  Component  from 'lucide-react';
 import React from 'react'
 
 
